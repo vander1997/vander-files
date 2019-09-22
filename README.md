@@ -1,5 +1,5 @@
 # vander-files
-This is the document for my master's journey.
+This is the document for my notion.
 
 
 Especially for 
