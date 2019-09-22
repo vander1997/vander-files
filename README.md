@@ -14,7 +14,7 @@ Especially for
 目前公开的笔记如下：
 
 - [my notion of hive](https://www.notion.so/vanderzhang/hive-11f142814e0b4e2aba96e682b42702e5)
-  > 对应的文件夹[files of hive](https://github.com/vander1997/vander-files/tree/master/hive)
+  > 对应的文件夹--[files of hive](https://github.com/vander1997/vander-files/tree/master/hive)
 
 - [my notion of hadoop](https://www.notion.so/vanderzhang/hadoop-555f5b1fb05e4bab841e515505b6a343)
-  > 对应的文件夹[files of hadoop](https://github.com/vander1997/vander-files/tree/master/hadoop)
+  > 对应的文件夹--[files of hadoop](https://github.com/vander1997/vander-files/tree/master/hadoop)
