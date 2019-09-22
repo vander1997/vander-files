@@ -1,5 +1,5 @@
 # vander-files
-This is the document for my master's degree.
+This is the document for my master's journey.
 
 
 Especially for 
